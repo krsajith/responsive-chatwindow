@@ -1,0 +1,9 @@
+https://dev.to/papaponmx/how-to-enable-tailwind-intellisense-on-tsx-files-230b
+https://ionicframework.com/blog/how-to-integrate-tailwind-css-into-your-stencil-project/
+
+npm run generate  components/hello-component
+npm run build
+
+
+https://devhints.io/stencil
+https://www.joshmorony.com/accessing-and-adding-styles-to-the-host-element-in-stencil/
